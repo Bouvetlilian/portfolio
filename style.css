@@ -1,4 +1,4 @@
-/* Import d'une police Google */
+}/* Import d'une police Google */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
 
 /* Reset de base */
@@ -499,11 +499,12 @@ section.visible {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: transform 0.3s ease-in-out;
 }
-    }
+    
 
 
 .parcours-logo {
     display: none;
+}
 }
 
 .parcours-logo img {
