@@ -34,7 +34,6 @@ window.addEventListener("scroll", reavelSection);
 
 //Gestion de la soumission du formulaire
 document.getElementById("contact-form").addEventListener("submit", function(e) {
-    e.preventDefault(); //Empêche l'envoi réel du formulair pour l'instant
 
 
     const name = document.getElementById("name").value;
