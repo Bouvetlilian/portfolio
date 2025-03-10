@@ -308,7 +308,7 @@ section.visible {
 
 .testimonial-containers {
     display: flex; /* Flexbox pour aligner les témoignages en ligne */
-    justify-content: space-between; /* Espacement entre les témoignages */
+    justify-content: center; /* Espacement entre les témoignages */
     gap: 0px; /* Espacement entre chaque témoignage */
     max-width: 900px; /* Limite la largeur du conteneur */
     margin: 0 auto; /* Centre les témoignages sur la page */
@@ -317,13 +317,13 @@ section.visible {
 }
 
 .testimonial {
-    width: 280px; /* Fixe la largeur des témoignages */
+    width: 450px; /* Fixe la largeur des témoignages */
     background: #333;
     padding: 20px;
     border: solid #252525;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    text-align: left;
+    text-align: center;
     margin-bottom: 20px; /* Espacement entre les témoignages */
 }
 
